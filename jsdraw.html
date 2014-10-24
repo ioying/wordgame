@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+
+<script>
+//alert('xxx');
+var x;
+alert (Math.round(Math.random()));
+</script>
+绘图指令分类： 
+(一)常见形状 
+1.矩形类 //rotation是以度为单位的旋转角度 
+Rect(x ,y, width, height, rotation) //矩形 
+Oval(x ,y, width, height, rotation) //椭圆 
+RoundRect(x ,y, width, height, arcWidth, arcHeight, rotation) 
+2.弧形类 
+Arc(x ,y, width, height, startAngle, arcAngle, rotation) //弧形 
+Pie(x ,y, width, height, startAngle, arcAngle, rotation) //饼图 
+3.多边形类 
+Polygon(nPoints, x1, y1, x2, y2, [x3, y3, ....], rotation) //闭合 
+Polyline(nPoints, x1, y1, x2, y2, [xn, yn, ....], rotation) //不闭合 
+(二)效果函数 
+1.线条效果 
+SetLineColor(r, g, b) //设置画线颜色 
+SetLineStyle(style) //style=(1:实线;2:虚线;0:隐藏) 
+2.填充效果 
+SetFillColor(r, g, b, backr, backg, backb) 
+SetFillStyle(style) //style=(1:实心;2:透明;3:-;4:|;5:\;6:/;7:+;8:x) 
+(三)文字输出函数 
+SetFont('字体',width,height,r,g,b) //设置字体 
+Text('要输出的文字内容', x,y,z) //输出文字 
+
+
+控制函数 //定义<object>后在<script></script>里使用。 
+引用格式：DirectDraw.FunctionName() 
+rotate(x-rotation, y-rotation, z-rotation) //旋转 
+scale(x-scale,y-scale,z-scale) //缩放 
+translate(x-coordinate,y-coordinate,z-coordinate) //平移 
+setIdentity() //复原 
+clear() //清除,清除后无法恢复！ 
+
+
+			var mywords=new Array();
+				mywords[1][0] = 'can' ;
+				mywords[1][1] = '能' ;
+				mywords[2][0] = 'should' ;
+				mywords[2][1] = '应该' ;
+				mywords[3][0] = 'made' ;
+				mywords[3][1] = '创造的' ;
+				mywords[4][0] = 'such' ;
+				mywords[4][1] = '如此的' ;
+				mywords[5][0] = 'great' ;
+				mywords[5][1] = '伟大的' ;
+				mywords[6][0] = 'must' ;
+				mywords[6][1] = '必须' ;
+				mywords[7][0] = 'know' ;
+				mywords[7][1] = '知道' ;
+	
+great
+adj.伟大的，杰出的；优异的，显著的；...
+great
+a. 伟大的,重要的,好极了  ad. ...
+great
+n.大人物们；伟大人物；重要人物，大师；...
+before
+adv. 以前 prep. 在…以前/前...
+before
+prep.在…之前；先于，优于；当着…的...
+before
+conj. 在…以前；在…之前
+must
+n. 必须做的事
+must
+v. 必须; 应该 v.&aux.; 必须...
+must
+aux.必须；必然要；（做出逻辑推断）；...
+must
+adj.不可或缺的；狂暴的  vt.&v...;
+two
+num. 二; 两个 n. 两个(人或物...
+two
+二; 两; 双
+two
+n.两个；两个东西；两点钟；一对；
+ad...
+two
+adj. 两个的
+these
+这些
+these
+a.&pron.;  这些
+these
+adj.这些的；
+pron.这些；
+these
+pron.&adj.;这些（this的复数...
+see
+vt. 看见；会面；探望；知道，获悉；送...
+see
+v. 看见; 看到; 看出; 明白
+see
+vi.&vt.;看见
+see
+n. (See)人名；(英)西伊；(柬)塞；(德)泽
+know
+v.  知道，了解；认识；懂得
+know
+vt.& vi.知道；看到过；听到过；经...
+know
+vi.知道，了解  vt.知道，了解；认...
+over
+adj. 结束的；过去的；外面的	
+
+
+256991 257265 127  681

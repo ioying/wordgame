@@ -1,0 +1,347 @@
+
+Teal  凫蓝色
+Thistle  蓟色
+Tomato 番茄色
+Turquoise  宝石绿
+Violet  紫罗兰色
+Wheat  小麦色
+Salmon 肉色  
+Seashell  海贝色
+Sienna 土黄赭色
+Silver  银白色
+Snow  雪白色
+Tan  棕褐色
+Orchid  淡紫色
+Pink  粉红色
+Plum  梅红色  
+Purple  紫色
+Red  红色  
+Maroon  栗色  
+Moccasin  鹿皮色
+Olive  橄榄色  
+Orange  橙色  
+Khaki  卡其色
+Lavender  淡紫色
+Lawn Green 草绿色
+Light Salmon 浅肉色
+Linen  亚麻布色
+Magenta  品红色
+Gray  灰色
+Green  绿色  
+Honeydew  蜂蜜色
+Hot Pink 水红色
+Indigo 靛青色
+Ivory  
+Cyan 青色
+Firebrick 火砖色
+Forest Green 森林绿
+Ghost White 幽灵白
+Gold   金色  
+Goldenrod 金麒麟色
+Burlywood 实木色
+Chartreuse 查特酒绿色
+Chocolate   赭色
+Coral 珊瑚色
+Cornsilk 米绸色
+Crimson  绯红  
+Aquamarine  蓝绿色
+Azure  蔚蓝色
+Beige  米黄色
+Bisque 桔黄色
+Black  黑色  
+Blue   蓝色  
+
+
+医院
+
+Wheelchair  轮椅  
+Syringe  注射器
+X-Ray  X光
+Painkiller  止疼药
+Paramedic  护理人员
+Patient  病人
+Stretcher  担架  
+Prescription  处方  
+Stitches 缝线  
+Injection  注射  
+Laboratory  化验室  
+Operating Table 手术台
+Operation   手术  
+Oxygen   氧气  
+Check-Up 体检  
+Ambulance   救护车  
+Appointment Book 预约簿
+Blood Pressure 血压  
+Capsule 胶囊  
+Microscope   显微镜  
+Nurse   护士  
+Doctor  医生
+Gauze  纱布  
+Medical Record 病历  
+First Aid 急救  
+Shipwreck  海难  
+Stretcher  担架  
+Fire Extinguisher 灭火器
+Rescue Boat 
+Emergency Room 急诊室
+
+
+紧急情况
+Fire Alarm 火警  
+
+First Aid 急救  
+Lifeguard  救生员  
+Life Jacket 救生衣
+Oxygen Mask 氧气面罩
+Ambulance  救护车  
+Accident   事故  
+Burglary  盗窃  
+Conflagration  火灾  
+Emergency Exit 太平门  
+Emergency Kit 急救箱  
+
+
+游泳
+
+Lifeguard  救生员  
+
+Underwater Swimming 潜泳  
+Surfing   冲浪  
+Surfboard   冲浪板  
+Water Ski 滑水  
+Diving Pool 跳水池
+Wading Pool 浅水池  
+Swimmer's Pool 深水池
+Starting Block   出发台
+Starting Dive 出发起跳
+Timekeeper   计时员
+Swim Cap 泳帽  
+Bikini  比基尼  
+Backstroke   仰泳  
+Butterfly Stroke 蝶泳  
+Swimming Lane 泳道  
+Diving Platform 跳台  
+Front Crawl 爬泳  
+Breaststroke 蛙泳  
+Swimming Pool 游泳池
+Swimming Trunks 泳裤
+Shower   淋浴  
+Swimsuit   泳衣
+
+交通工具
+
+Pedicab   三轮车  
+Horse-drawn Carriage 马车  
+Hot-air Balloon  热气球  
+Trolley   电车  
+Long-distance Bus 长途客车
+Ferry   渡轮  
+Cruise Ship 游轮  
+Raft   木筏  
+Horseback  骑马
+Pickup Truck 小型货车
+Freight Truck 货车  
+Hitchhiking 搭车
+Helicopter   直升机
+SUV 运动型多用途车
+Minivan  厢式旅行车
+Moped 轻型摩托
+Scooter   滑板车
+Electric Scooter 电动滑板车
+Rollerblades   直排轮
+Roller Skates 双排轮
+Bicycle  自行车  
+Sedan  四门轿车
+Plane  飞机  
+Jet Plane 喷气式飞机
+Taxi   出租车
+Bus  公共汽车
+Convertible  敞篷车  
+Subway  地铁  
+Train  火车  
+Rickshaw 人力车  
+Skateboard   滑板  
+Motorcycle   摩托车
+
+
+
+
+ 汽车零部件
+
+Speedometer  车速表
+Tire  轮胎  
+Trunk  后备箱
+Windshield  挡风玻璃  
+Fuel Tank 油箱  
+Gearshift  换挡杆
+Headlight 前灯
+Mirror  镜子  
+Rearview Mirror 后视镜  
+Seat  座椅
+Battery  电池  
+Brake  刹车  
+Car  汽车  
+Dashboard  仪表板
+Engine  引擎  
+Fuel Log 油耗记录仪
+
+天气
+
+Cloudy   多云  
+Drought  干旱  
+Humid  潮湿  
+Dew  露水
+Monsoon 季风  
+Temperature   温度  
+weather forecast 天气预报
+Rainstorm  暴风雨  
+Blizzard  暴风雪  
+Sandstorm  沙暴  
+Frost  霜  
+Dry Season 旱季  
+Wet Season 雨季  
+Sunny  阳光明媚
+Clear  晴朗  
+Snow  雪  
+Fog 雾  
+Lightning  闪电  
+Hurricane  飓风  
+Tornado  龙卷风
+Cyclone  旋风  
+Cold  冷
+Warm  暖  
+Hot  热
+Freezing 严寒  
+Hail  冰雹  
+Drizzle  小雨
+Thunderstorm  雷雨  
+Typhoon  台风  
+Wind  大风  
+Rain  雨  
+
+
+
+
+
+婴儿
+Doll  娃娃
+Block  积木  
+Stuffed Animals 填充玩具
+Teddy Bear 泰迪熊
+Rattle  拨浪鼓  
+Kindergarten  幼儿园
+Diaper  尿布  
+Disposable Diaper 尿不湿  
+Crib  婴儿床
+Stroller  婴儿车
+Toy  玩具  
+Mobile  悬吊玩具
+Baby Clothes 婴儿服
+Triplets  三胞胎  
+Twins   双胞胎  
+Baby  婴儿  
+Feeding Bottle  奶瓶  
+Pacifier  奶嘴  
+
+饮料
+
+Liquor  酒精饮料
+Chinese White liquor 白酒  
+Whiskey  威士忌  
+Sake  清酒
+Cocktail  鸡尾酒  
+Smoothie 沙冰
+Brandy  白兰地  
+Wine  葡萄酒
+Red Wine 红葡萄酒
+White Wine 白葡萄酒
+Soy Milk 豆浆
+Fruit Juice 果汁  
+Champagne  香槟
+Hot Tea 热茶
+Coffee  咖啡  
+Espresso  浓咖啡
+Iced Coffee 冰咖啡
+Caffelatte 拿铁咖啡
+Cappuccino   卡布奇诺
+
+cyclist 骑自行车者
+　　bicycle, cycle, bike 自行车
+　　cycle track 自行车赛车道
+　　cycling 自行车赛
+　　to ride a bicycle 骑自行车
+　　hand signals 手势
+　　freewheel 飞轮
+　　tandem 双轮双座自行车
+　　racing cycle 公路赛车
+　　velodrome, cycling stadium 自行车赛车场
+　　handlebars 车把
+　　racing handlebars, drop handlebars 赛车车把
+　　handlebar grips 车把把套
+　　bell 车铃
+　　hooter 喇叭
+　　front brake 前闸
+　　back brake 后闸
+　　brake handle 闸把
+　　brake shoe, brake rubber 闸皮
+　　brake cable 闸线
+　　saddle 车座
+　　saddle springs 车座弹簧
+　　saddlebag 工具包
+　　carrier 行李架
+　　lightweight frame 轻质车架
+　　crossbar 大梁
+　　gear lever, gear change 变速杆 (美作： gearshift)
+　　front fork 前叉
+　　dynamo 车尾灯
+　　lamp bracket 车灯架
+　　lamp, front light 车灯
+　　rear light 尾灯
+　　reflector 反光灯
+　　ball bearing 滚珠轴承
+　　front wheel 前轮
+　　spoke 轮辐，车条
+　　wing nut, butterfly nut 蝶型螺母
+　　rim 车圈
+
+
+
+马术
+
+Steeplechase  障碍赛马
+Dressage 盛装舞步
+Equestrian  马术  
+Prance  腾跃
+Gallop  飞跑
+Arena  比赛场地
+Rider  骑手  
+Saddle  马鞍  
+Stirrup  马镫  
+Rein  缰绳
+Tail  马尾
+Hoof  马蹄  
+Horseshoe 马蹄铁  
+Bridle  马勒
+Riding Crop 短马鞭
+Mane  马鬃  
+Riding Boot 马靴  
+Jodhpurs 马裤  
+
+高尔夫
+
+
+Backswing 上杆
+Address  瞄球
+Bunker  沙坑  
+Driver  一号木杆
+Flag  旗  
+Golf Bag 高尔夫球袋
+Golfer 高尔夫球手
+Green  果岭
+Grip  握杆
+Hazard  障碍  
+Hole  球洞
+Putt  推杆  
+Tee  球座
+Tee Shot 开球  
+Water Hazard 水障碍

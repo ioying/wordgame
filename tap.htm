@@ -1,0 +1,46 @@
+<body style="height: 100%;margin:0;padding:0">
+<script>
+// define global variable
+
+var canvas = document.getElementById("canvas"),
+       spirit, startX, startY;
+    // touch start listener
+
+function touchStart(event) {
+         event.preventDefault();
+         if (!spirit ||! event.touches.length) return;
+         var touch = event.touches[0];
+         startX = touch.pageX;
+         startY = touch.pageY;
+         spirit = document.createElement("div");
+         spirit.className = "spirit";
+         spirit.style.left = startX+'px';
+         spirit.style.top = startY+'px';
+         canvas.appendChild(spirit);
+}
+
+// add touch start listener
+canvas.addEventListener("touchstart", touchStart, false);
+
+function touchMove(event) {
+         event.preventDefault();
+         if (!spirit || !event.touches.length) return;
+         var touch = event.touches[0],
+              x = touch.pageX – startX,
+              y = touch.pageY – startY;
+         spirit.style.WebkitTransform = 'translate(' + x + 'px, ' + y + 'px)';     
+}
+
+Canvas.addEventListener("touchmove", touchMove, false);
+function touchEnd(event) {
+         If (!spirit) return;
+         canvas.removeChild(spirit);
+         spirit = null;
+}
+
+canvas.addEventListener("touchend", touchEnd, false);
+
+</script>
+<div id="canvas"  style="position: relative;width:100%;height: 100%;"></div>
+
+</body>
